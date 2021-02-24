@@ -9,7 +9,7 @@ With this example the main API url is http://localhost:5000/graphql > [!NOTE]
 
 Voyager 
 
-![Image of Voyager Generated Page](https://https://github.com/ScottGeek/CommanderGQL/blob/main/Docs/Images/screenshot-localhost-5000-graphql-voyager-1614195588800.png)
+![Image of Voyager Generated Page](Docs/Images/screenshot-localhost-5000-graphql-voyager-1614195588800.png)
 
 examples:
 
