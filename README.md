@@ -1,15 +1,22 @@
 # CommanderGQL
-Example of using GraphQL and Hot Chocolate 
+**Example of using GraphQL and Hot Chocolate**
 
 Nothing really special here. This repo explores using GraphQL with HotChocolate.
   This shows doing Queries, Mutations, and a sample subscription.
   
-With this example the main API url is http://localhost:5000/graphql *Remember that one must do a POST when using GraphQL* (even when doing a GET)
+With this example the main API url is http://localhost:5000/graphql > [!NOTE]
+> *Remember that one must do a POST when using GraphQL* (even when doing a GET)
+
+Voyager 
+
 
 examples:
-  Queries:
-  
-  -Plain get some data
+
+Queries:
+
+ -Plain get some data
+```sql
+
   query{
   commands{
     id
@@ -20,18 +27,18 @@ examples:
     }
   }
 }
-
+```
 -Doing some sorting
-
+```sql
 query {
   platform(order: {name: DESC})
   {
     name
   }
 }
-
+```
 -Doing a filter
-
+```sql
 query{
   commands(where: {platformId: {eq: 1}} ){
     id
@@ -43,10 +50,10 @@ query{
     }
   }
 }
-
+```
 
 Mutations (adding data to the Db):
-
+```sql
 mutation{
   addPlatform(input:
   { name: "GitHub"
@@ -59,7 +66,4 @@ mutation{
     }
   }
 }
-
-
-
-    
+```    
