@@ -19,7 +19,7 @@ To test the API, one should really try Insomnia https://insomnia.rest/. This API
 
 The "Banana Cake Pop" fond on http://localhost:5000/graphql/
 
-[!Image of Banana Cake Pop](Docs/Images/screenshot-localhost-5000-graphql-1614200851329.png)
+![Image of Banana Cake Pop](Docs/Images/screenshot-localhost-5000-graphql-1614200851329.png)
 
 **Some GraphQL Examples:**
 
