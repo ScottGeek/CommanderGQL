@@ -7,8 +7,9 @@ Nothing really special here. This repo explores using GraphQL with HotChocolate.
 With this example the main API url is http://localhost:5000/graphql > 
 > *Remember that one must do a POST when using GraphQL* (even when doing a GET)
 
-Voyager 
- The Voyager Data Diagram accessed from: http://localhost:5000/graphql-voyager when the App is running
+   *Voyager*
+ 
+The Voyager Data Diagram accessed from: http://localhost:5000/graphql-voyager when the App is running
 
 ![Image of Voyager Generated Page](Docs/Images/screenshot-localhost-5000-graphql-voyager-1614195588800.png)
 
