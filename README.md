@@ -17,7 +17,7 @@ This web inteface will allow one walk the data models in the code and see relati
 
 To test the API, one should really try Insomnia https://insomnia.rest/. This API tester appears to have a good interface for running API endpoints. But of course this is not required. When using Hot Chocolate, there is an interface that comes built in.
 
-The "Banana Cake Pop" fond on http://localhost:5000/graphql/
+The "Banana Cake Pop" found on http://localhost:5000/graphql/
 
 ![Image of Banana Cake Pop](Docs/Images/screenshot-localhost-5000-graphql-1614200851329.png)
 
