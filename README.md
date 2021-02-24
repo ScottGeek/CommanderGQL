@@ -9,9 +9,7 @@ With this example the main API url is http://localhost:5000/graphql > [!NOTE]
 
 Voyager 
 
-:::image type="content" source="Docs/Images/screenshot-localhost-5000-graphql-voyager-1614195588800.png" alt-text="Voyager page" 
-
-lightbox="Docs/Images/screenshot-localhost-5000-graphql-voyager-1614195588800.png":::
+![Image of Voyager Generated Page](https://https://github.com/ScottGeek/CommanderGQL/blob/main/Docs/Images/screenshot-localhost-5000-graphql-voyager-1614195588800.png)
 
 examples:
 
