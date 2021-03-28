@@ -1,4 +1,10 @@
 # CommanderGQL
+
+**Releases**
+
+[![Generic badge](https://img.shields.io/badge/Release-Available-<COLOR>.svg)](https://github.com/ScottGeek/CommanderGQL/releases/tag/v1.0)
+[Release v1.0](]https://github.com/ScottGeek/CommanderGQL/releases/tag/v1.0)
+
 **Example of using GraphQL and Hot Chocolate**
 
 Nothing really special here. This repo explores using GraphQL with HotChocolate.
