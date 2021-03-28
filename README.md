@@ -13,7 +13,7 @@ The Voyager Data Diagram accessed from: http://localhost:5000/graphql-voyager wh
 
 ![Image of Voyager Generated Page](Docs/Images/screenshot-localhost-5000-graphql-voyager-1614195588800.png)
 
-This web inteface will allow one walk the data models in the code and see relationships for Queries, Mutations, etc.
+This web interface will allow one walk the data models in the code and see relationships for Queries, Mutations, etc.
 
 To test the API, one should really try Insomnia https://insomnia.rest/. This API tester appears to have a good interface for running API endpoints. But of course this is not required. When using Hot Chocolate, there is an interface that comes built in.
 
